@@ -1,0 +1,9 @@
+.main-heading {
+  text-align: center;
+  font-family: "Carter One", cursive;
+  color: black;
+  text-transform: uppercase;
+  background-color: #2ed573;
+  font-size: 1.8rem;
+  letter-spacing: 15px;
+}
